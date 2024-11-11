@@ -11,6 +11,7 @@ function App() {
       <div className='relative'>
         <div className='container mx-auto mt-20'>
           <h1 className='font-black text-5xl text-center md:w-2/3 md:mx-auto'>
+            <p className='text-2xl text-indigo-700 text-center sm:1/6'>By Ariel F.G. Developer Full Stack</p>
             Seguimiento de Pacientes {''}
             <span className='text-green-700'>Veterinaria</span>
           </h1>
