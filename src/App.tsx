@@ -6,7 +6,7 @@ import 'react-toastify/ReactToastify.css';
 function App() {
   return (
     <div className='relative'>
-      <div className="absolute inset-0 bg-[url('src/assets/animals.jpg')] bg-center bg-contain bg-no-repeat opacity-20 pointer-events-none"></div>
+      <div className="absolute inset-0 bg-[url('./assets/animals.jpg')] bg-center bg-contain bg-no-repeat opacity-20 pointer-events-none"></div>
 
       <div className='relative'>
         <div className='container mx-auto mt-20'>
