@@ -43,7 +43,7 @@ return (
 
         <p className="text-lg mt-5 text-center mb-10">
             Añade Pacientes y {''}
-            <span className="text-indigo-600 font-bold">Administralos</span>
+            <span className="text-green-600 font-bold">Administralos</span>
         </p>
 
         <form 
@@ -155,7 +155,7 @@ return (
 
             <input
                 type="submit"
-                className="bg-indigo-600 w-full p-3 text-white uppercase font-bold hover:bg-indigo-700 cursor-pointer transition-colors"
+                className="bg-green-600 w-full p-3 text-white uppercase font-bold hover:bg-green-700 cursor-pointer transition-colors rounded-md"
                 value='Guardar Paciente'
             />
         </form> 
